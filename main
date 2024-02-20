@@ -1,3 +1,3 @@
-git remote add origin https://github.com/Braden-Hicklin/Projects.git
+git remote add origin https://github.com/Braden-Hicklin/PythonProjects.git
 git branch -M main
 git push -u origin main
